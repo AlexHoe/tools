@@ -1,2 +1,4 @@
 # tools
-Small tools ans scripts
+## Generate Anki flashcards with Python
+### Installation
+`pip install genanki`
